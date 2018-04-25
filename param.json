@@ -1,0 +1,12 @@
+[
+  {
+    "name": "TEST COLOMBERO",
+    "state": "ile_de_france",
+    "locations": [
+      "Paris 75018",
+      "Paris 75016"
+    ],
+    "loyer_max": "700",
+    "meuble": "1"
+  }
+]
